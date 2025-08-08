@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\PalindromeWordChecker\bin\Debug\PalindromeWordChecker.exe.config
+C:\Users\HP\source\repos\PalindromeWordChecker\bin\Debug\PalindromeWordChecker.exe
+C:\Users\HP\source\repos\PalindromeWordChecker\bin\Debug\PalindromeWordChecker.pdb
+C:\Users\HP\source\repos\PalindromeWordChecker\obj\Debug\PalindromeWordChecker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PalindromeWordChecker\obj\Debug\PalindromeWordChecker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PalindromeWordChecker\obj\Debug\PalindromeWordChecker.exe
+C:\Users\HP\source\repos\PalindromeWordChecker\obj\Debug\PalindromeWordChecker.pdb
